@@ -1,4 +1,4 @@
-Vue Home :
+Vue Home : réalisé sur figma
 
 header:
 Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
