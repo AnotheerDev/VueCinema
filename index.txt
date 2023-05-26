@@ -1,0 +1,108 @@
+Vue Home :
+
+header:
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+News 
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+
+
+
+
+Vue FILMS ( idGenre )
+
+header:
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+Liste des films dans des box avec les infos des films
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+
+
+
+
+Vue GENRE
+
+header:
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+Liste des films dans des box avec les infos des films
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+
+
+
+
+Vue Acteurs / Réalisateur
+
+header
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+Liste des acteurs dans des box avec les infos des acteurs et eventuellement les rôles qu'ils ont pu interpreter quand on clique sur la box pour l'aggrandir et laisser apparaitre les rôles
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+
+
+
+
+Vue Ajout Film
+
+header:
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+Formulaire* pour ajouter un film :
+Titre / Date de sortie / durée / synopsie / note / affiche du film / idRéalisateur
+Formulaire* pour associer un film avec un genre:
+Titre / genre 
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+
+
+
+
+Vue Ajout casting et personne
+
+header:
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+Formulaire* ajout acteur ,realisateur, des genres ( listing déjà existant dans le BDD )
+On va soumettre un formulaire ajout personne:
+Nom / Prénom / Sexe / Date de naissance + une case pour dire si c'est un acteur ou un réalisateur ou les deux ?
+On va soumettre un formulaire ajout genre :
+Nom 
+
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+___________________________________________________________________________
+*formulaire avec input field ou dropdown
