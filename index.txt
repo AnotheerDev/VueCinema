@@ -66,6 +66,26 @@ contact
 
 
 
+Vue Ajout casting et personne : réalisé sur figma séparé en deux vue du coup  
+
+header:
+Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
+Mon compte
+
+body :
+Formulaire* ajout acteur ,realisateur, des genres ( listing déjà existant dans le BDD )
+On va soumettre un formulaire ajout personne:
+Nom / Prénom / Sexe / Date de naissance + une case pour dire si c'est un acteur ou un réalisateur ou les deux ?
+On va soumettre un formulaire ajout genre :
+Nom 
+
+
+footer :
+réseaux sociaux
+charte rgpd
+contact
+
+
 
 Vue Ajout Film
 
@@ -87,23 +107,5 @@ contact
 
 
 
-Vue Ajout casting et personne
-
-header:
-Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
-Mon compte
-
-body :
-Formulaire* ajout acteur ,realisateur, des genres ( listing déjà existant dans le BDD )
-On va soumettre un formulaire ajout personne:
-Nom / Prénom / Sexe / Date de naissance + une case pour dire si c'est un acteur ou un réalisateur ou les deux ?
-On va soumettre un formulaire ajout genre :
-Nom 
-
-
-footer :
-réseaux sociaux
-charte rgpd
-contact
 ___________________________________________________________________________
 *formulaire avec input field ou dropdown
