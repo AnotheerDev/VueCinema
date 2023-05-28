@@ -33,7 +33,7 @@ contact
 
 
 
-Vue GENRE
+Vue GENRE  à voir mardi car je peux déjà trier les films par genre dans la vue film
 
 header:
 Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
@@ -50,14 +50,14 @@ contact
 
 
 
-Vue Acteurs / Réalisateur
+Vue Acteurs / Réalisateur : réalisé sur figma
 
 header
 Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
 Mon compte
 
 body :
-Liste des acteurs dans des box avec les infos des acteurs et eventuellement les rôles qu'ils ont pu interpreter quand on clique sur la box pour l'aggrandir et laisser apparaitre les rôles
+Liste des acteurs dans des box avec les infos des acteurs et eventuellement les rôles qu'ils ont pu interpreter quand on clique sur la box pour l'aggrandir et laisser apparaitre les rôles ( ou carrément une autre page à voir)
 
 footer :
 réseaux sociaux
