@@ -15,13 +15,14 @@ contact
 
 
 
-Vue FILMS ( idGenre )
+Vue FILMS ( idGenre ) : réalisé sur figma
 
 header:
 Nav bar FILMS / ACTEURS - REALISATEUR /CASTING / AJOUT FILM / AJOUT CASTING 
 Mon compte
 
 body :
+ajout de filtre au dessus pour trier par genre et note 
 Liste des films dans des box avec les infos des films
 
 footer :
